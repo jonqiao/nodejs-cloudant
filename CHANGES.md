@@ -1,4 +1,5 @@
 # 3.0.0 UNRELEASED
+- [FIXED] Expose `BasePlugin` type in Cloudant client.
 - [UPGRADED] Using nano==7.1.0 dependancy.
 
 # 2.4.0 (2018-09-19)
